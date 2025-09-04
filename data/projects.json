@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1",
+    "title": "Weather App",
+    "description": "Developed a real-time weather application using React that integrates with the Open Weather API to display temperature, humidity, wind speed, and weather conditions with a responsive and dynamic user interface.",
+    "image": "/weather-app.png",
+    "link": "https://github.com/Dhasshubham/Weather-App",
+    "github": "https://github.com/Dhasshubham/Weather-App",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "OpenWeather API"
+    ],
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Grocify Website",
+    "description": "A grocery shopping website built with React where users can search products, view details, add items to the cart, and place orders through a simple checkout. It has a clean design, works on mobile and desktop, and updates the cart in real time for a smooth shopping experience.",
+    "image": "/grocify-website.png",
+    "link": "https://grocify-demo.vercel.app",
+    "github": "https://github.com/Dhasshubham/grocify-website",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js"
+    ],
+    "featured": true
+  }
+]
