@@ -4,14 +4,10 @@
   "private": true,
   "homepage": "https://Dhasshubham.github.io/portfolio",
   "scripts": {
+    "build": "next build",
     "dev": "next dev",
     "lint": "next lint",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "next start"
   },
 
   "dependencies": {
