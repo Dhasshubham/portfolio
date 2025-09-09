@@ -85,7 +85,7 @@ export function Hero() {
               }`}
             >
               <a
-                href="https://github.com/Dhasshubham"
+                href="https://www.linkedin.com/in/shubham-dhas-4305a9252"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-accent transition-all duration-200 transform hover:scale-110 hover:-translate-y-1 p-2"
@@ -94,7 +94,7 @@ export function Hero() {
                 <span className="sr-only">GitHub</span>
               </a>
               <a
-                href="www.linkedin.com/in/shubham-dhas-4305a9252"
+                href="https://www.linkedin.com/in/shubham-dhas-4305a9252"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-accent transition-all duration-200 transform hover:scale-110 hover:-translate-y-1 p-2"

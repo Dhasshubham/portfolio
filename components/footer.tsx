@@ -16,7 +16,7 @@ export function Footer() {
           {/* Right side - Social links */}
           <div className="flex space-x-4 sm:space-x-6">
             <a
-              href="https://github.com/Dhasshubham"
+              href="https://www.linkedin.com/in/shubham-dhas-4305a9252/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sidebar-foreground/80 hover:text-sidebar-primary transition-colors duration-200 p-2"
