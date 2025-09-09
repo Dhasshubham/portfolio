@@ -36,7 +36,7 @@
     "description": "A responsive web app to search and explore books by title, author, or keyword. Built with modern UI and powered by the Google Books API for real-time results.",
     "image": "/Book-image.png",
     "link": "https://book-finder-seven-neon.vercel.app/",
-    "github": "hhttps://github.com/Dhasshubham/Book-Finder",
+    "github": "https://github.com/Dhasshubham/Book-Finder",
     "tags": [
       "HTML",
       "CSS",
