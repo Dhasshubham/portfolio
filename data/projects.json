@@ -29,5 +29,20 @@
       "React.js"
     ],
     "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Grocify Website",
+    "description": "A grocery shopping website built with React where users can search products, view details, add items to the cart, and place orders through a simple checkout. It has a clean design, works on mobile and desktop, and updates the cart in real time for a smooth shopping experience.",
+    "image": "/grocify-website.png",
+    "link": "https://grocify-website-three.vercel.app/",
+    "github": "https://github.com/Dhasshubham/Grocify-Website",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React.js"
+    ],
+    "featured": true
   }
 ]
